@@ -12,3 +12,7 @@ You should First read the script `chargebee-connector.js.gs` and do the necessar
  ## Deploy Connector
 
  Deploying the connector is pretty straight forward, please follow this guide: [Here](https://developers.google.com/datastudio/connector/deploy)
+
+## Result
+Here is the result, where you can connect to any Chargebee Api given a valid API key and URL and You can even choose the table you want to import.
+![alt text](images/Connector-deployed.png)
